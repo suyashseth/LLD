@@ -1,4 +1,4 @@
-package org.lld.designpattern.behavioural;
+package org.lld.designpattern.behavioural.observer;
 
 public class Client {
 
